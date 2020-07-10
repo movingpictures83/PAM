@@ -3,7 +3,7 @@
 # Input: CSV
 # Output: CSV
 # Tested with: PluMA 1.1, R 4.0.0
-# Dependencies: cluster_2.1.0
+# Dependencies: cluster_2.1.0, factorextra_1.0.7
 
 PluMA plugin to perform Partition Around Medoids (PAM) clustering (Kaufman and Rousseeuw, 1987).
 
