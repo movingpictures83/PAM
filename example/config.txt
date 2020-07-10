@@ -1,0 +1,2 @@
+Prefix plugins/PAM/example
+Plugin PAM inputfile USArrests.csv outputfile USArrests.clusters.csv
